@@ -1,4 +1,5 @@
-# Simon Weideskog 2022
+# Simon Weideskog, Louise Calmered, Marie Halling
+# 2022 June
 
 import numpy as np
 
